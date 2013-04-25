@@ -1,0 +1,3 @@
+assert 0 == stringCalculator("")
+assert 3 == stringCalculator("3")
+assert 9 == stringCalculator("5,4")
